@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="bg-slate-800 text-white">
+    <header className="bg-brand text-white">
       <span>🎓</span>
       <h1>CampusConnect</h1>
     </header>
